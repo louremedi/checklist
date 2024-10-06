@@ -2,9 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>louremedi.github.io/checklist/categories/</loc>
+  </url><url>
     <loc>louremedi.github.io/checklist/</loc>
   </url><url>
-    <loc>louremedi.github.io/checklist/categories/</loc>
+    <loc>louremedi.github.io/checklist/series/</loc>
   </url><url>
     <loc>louremedi.github.io/checklist/tags/</loc>
   </url>

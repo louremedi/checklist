@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Checklists</title>
     <link>louremedi.github.io/checklist/</link>
-    <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="louremedi.github.io/checklist/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content on Checklists</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2017 Your name</copyright><atom:link href="louremedi.github.io/checklist/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
