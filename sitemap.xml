@@ -2,12 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>louremedi.github.io/checklist/categories/</loc>
-  </url><url>
     <loc>louremedi.github.io/checklist/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/categories/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/posts/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/posts/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>louremedi.github.io/checklist/series/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>louremedi.github.io/checklist/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/series/themes-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/posts/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/posts/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/posts/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/posts/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>louremedi.github.io/checklist/archives/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>louremedi.github.io/checklist/tags/index/</loc>
   </url>
 </urlset>
